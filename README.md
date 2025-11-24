@@ -1,1 +1,1 @@
-
+A music player that lets you play and manage audio files. It supports different formats like MP3, WAV, or FLAC, and usually has features such as playlists, shuffle/repeat modes, and volume control. Modern music players also show metadata like song title, artist, and album art.
