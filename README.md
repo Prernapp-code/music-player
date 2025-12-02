@@ -1,1 +1,1 @@
-A music player that lets you play and manage audio files. It supports different formats like MP3, WAV, or FLAC, and usually has features such as playlists, shuffle/repeat modes, and volume control. Modern music players also show metadata like song title, artist, and album art.
+This project is a simple music player application built using Python. It allows users to play, pause, stop, and navigate through audio files (like MP3s) using a graphical user interface (GUI). The player supports basic controls and displays the current playing track’s name.
